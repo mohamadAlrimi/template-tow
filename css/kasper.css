@@ -230,7 +230,7 @@ header nav .form i {
     min-height: 100vh;
     background-color: rgb(82, 78, 78);
     background-size: cover;
-    background-image: url(../images/pexels-pixabay-414144.jpg);
+    background-image: url("../images/pexels-pixabay-414144.jpg");
     position: relative;
 }
 
@@ -385,7 +385,7 @@ header nav .form i {
     padding-bottom: var(--section-padding);
     height: 600px;
     position: relative;
-    background-image: url(../images/design-features.jpg);
+    background-image: url("../images/design-features.jpg");
     background-size: cover;
     display: flex;
     align-items: center;
@@ -614,7 +614,7 @@ header nav .form i {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     text-align: center;
-    background-image: url(/images/stats.png);
+    background-image: url("../images/stats.png");
     background-size: cover;
     position: relative;
 }
@@ -821,7 +821,7 @@ header nav .form i {
 .quote {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url(/images/quote.jpg);
+    background-image: url("/images/quote.jpg");
     background-size: cover;
     position: relative;
     text-align: center;
@@ -951,7 +951,7 @@ header nav .form i {
 .subscribe {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url(/images/subscribe.jpg);
+    background-image: url("/images/subscribe.jpg");
     background-size: cover;
     position: relative;
     color: white;
@@ -1131,7 +1131,7 @@ header nav .form i {
 .footer {
     padding-top: calc(var(--section-padding) / 2);
     padding-bottom: calc(var(--section-padding) / 2);
-    background-image: url(../images/subscribe.jpg);
+    background-image: url("../images/subscribe.jpg");
     background-size: cover;
     position: relative;
     color: white;
